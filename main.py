@@ -103,6 +103,7 @@ ALLOWED_ORIGINS = list(
         [
             "http://localhost:5173",
             "http://127.0.0.1:5173",
+            "https://stuentlens-ai.mhabibulie02.workers.dev",
             FRONTEND_ORIGIN,
             *EXTRA_ORIGINS,
         ]
